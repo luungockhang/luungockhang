@@ -1,5 +1,9 @@
-Personal GitHub account for school projects. At the moment I am enrolling in second diploma program at a local university.\n
-I am learning to code in C# and HTML and open to opportunities to learn new things.\n
+Personal GitHub account for school projects. At the moment I am enrolling in second diploma program at a local university.
+
+
+I am learning to code in C# and HTML and open to opportunities to learn new things.
+
+
 Should you want to reach out, please contact me via Discord - Kangaroo#1448.
 
 <!---
