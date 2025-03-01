@@ -1,4 +1,4 @@
-Personal GitHub account for school projects. At the moment I am enrolling in second diploma program at a local university.
+~~Personal GitHub account for school projects. At the moment I am enrolling in second diploma program at a local university.~~
 Update - 2025 Feb: I finished my program at the university, I'm now open for job offers.
 
 I am proficient in C#, Python and HTML and open to opportunities to learn new things.
